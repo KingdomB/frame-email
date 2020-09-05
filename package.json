@@ -2,7 +2,8 @@
   "name": "foundation-emails-template",
   "version": "1.0.0",
   "engines": {
-    "node": "~10.22.0"
+    "node": "~10.22.0",
+    "npm": "~6.14.6"
   },
   "description": "Basic template for a Foundation for Emails project.",
   "repository": "zurb/foundation-emails-template",
